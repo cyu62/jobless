@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.516.0",
+    "openai": "^5.5.1"
+  }
+}
